@@ -317,6 +317,10 @@ header {
     color: white;
 }
 
+.correo a:hover {
+    color: #efb668;
+}
+
 
 .footer {
     
